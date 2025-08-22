@@ -1,7 +1,4 @@
-
-
 DevOps interview question: How do yu manage multiple environments in Terraform?
-ChatGPT said:
 
 Good question 👍.
 When asked “How do you manage multiple environments in Terraform?”, interviewers want to see if you understand Terraform best practices for separating environments like dev, staging, and prod while keeping code reusable, secure, and consistent.
